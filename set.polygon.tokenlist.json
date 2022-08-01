@@ -400,6 +400,22 @@
       "symbol": "SCASH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/supercash.png"
-    }
+    },
+    {
+      "chainId": 137,
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "name": "AAVE Token",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+        "chainId": 137,
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 18,
+        "logoURI": ""
+     }
   ]
 }
