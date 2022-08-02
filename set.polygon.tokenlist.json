@@ -448,6 +448,14 @@
         "symbol": "DAI",
         "decimals": 18,
         "logoURI": ""
+     },
+     {
+        "chainId": 137,
+        "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 18,
+        "logoURI": ""
      }
 
   ]
